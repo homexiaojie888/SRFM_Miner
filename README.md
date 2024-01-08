@@ -27,4 +27,4 @@ If this article or code useful for your project, please refer to
 ```
 
 ## Notes
-If there are any questions, please contact us (Email: xjzhang2021@163.com).
+If there are any questions, please contact us (Email: xzhang3338-c@my.cityu.edu.hk).
